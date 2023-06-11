@@ -42,25 +42,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Test the osticket installation by logging in as an agent or a user and creating a new ticket.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://i.imgur.com/DJmEXEB.png](https://docs.osticket.com/en/latest/_images/collabs_ticket_reply.png)" height="80%" width="80%" alt="Internal Communication"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Using osTicket to manage internal communications in design operations. In this section, we will explore a common problem faced by businesses when using a messenger app for task management instead of leveraging dedicated ticketing systems like osTicket. We will delve into the complications arising from this approach and the benefits of shifting to a more structured and efficient solution.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://docs.osticket.com/en/latest/_images/admin_settings_agent_agentSettings.png" height="80%" width="80%" alt="Bootstrapping task manager"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Introduce osTicket is a robust ticketing system designed specifically for efficient task management. Highlight its key features, such as centralized ticket creation, assignment, and tracking, customizable workflows, task prioritization, and comprehensive reporting.
+</p>
+<br />
+
+<p>
+<img src="[https://i.imgur.com/DJmEXEB.png](https://docs.osticket.com/en/latest/_images/cccc_after_global_queue.png)" height="80%" width="80%" alt="Customer Support Queue"/>
+</p>
+<p>
+Define key performance indicators (KPIs) to assess the effectiveness of osTicket implementation. Identify metrics such as task completion rate, reduced response time, improved task visibility, and enhanced collaboration as measures of success.
 </p>
 <br />
