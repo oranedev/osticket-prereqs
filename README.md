@@ -42,7 +42,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Test the osticket installation by logging in as an agent or a user and creating a new ticket.
 
 <p>
-<img src="[https://i.imgur.com/DJmEXEB.png](https://docs.osticket.com/en/latest/_images/collabs_ticket_reply.png)" height="80%" width="80%" alt="Internal Communication"/>
+<img src="https://i.imgur.com/DJmEXEB.png](https://docs.osticket.com/en/latest/_images/collabs_ticket_reply.png" height="80%" width="80%" alt="Internal Communication"/>
 </p>
 <p>
 Using osTicket to manage internal communications in design operations. In this section, we will explore a common problem faced by businesses when using a messenger app for task management instead of leveraging dedicated ticketing systems like osTicket. We will delve into the complications arising from this approach and the benefits of shifting to a more structured and efficient solution.
@@ -58,7 +58,7 @@ Introduce osTicket is a robust ticketing system designed specifically for effici
 <br />
 
 <p>
-<img src="[https://i.imgur.com/DJmEXEB.png](https://docs.osticket.com/en/latest/_images/cccc_after_global_queue.png)" height="80%" width="80%" alt="Customer Support Queue"/>
+<img src="https://i.imgur.com/DJmEXEB.png](https://docs.osticket.com/en/latest/_images/cccc_after_global_queue.png" height="80%" width="80%" alt="Customer Support Queue"/>
 </p>
 <p>
 Define key performance indicators (KPIs) to assess the effectiveness of osTicket implementation. Identify metrics such as task completion rate, reduced response time, improved task visibility, and enhanced collaboration as measures of success.
